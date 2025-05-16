@@ -11,5 +11,6 @@ public class App {
         int j=20;
 
         String name1="Divyanshu";
+        char x='A';
     }
 }
