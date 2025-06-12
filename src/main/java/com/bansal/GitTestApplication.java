@@ -11,6 +11,7 @@ public class GitTestApplication {
 		int x=10;
 		String name="john";
 		int y=20;
+		String name1="chhotu";
 	}
 
 }
