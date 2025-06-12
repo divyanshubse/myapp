@@ -12,6 +12,7 @@ public class GitTestApplication {
 		String name="john";
 		int y=20;
 		String name1="chhotu";
+		double salary=1000.00;
 	}
 
 }
