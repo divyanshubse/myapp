@@ -10,6 +10,7 @@ public class GitTestApplication {
 		SpringApplication.run(GitTestApplication.class, args);
 		int x=10;
 		String name="john";
+		String name1="chhotu";
 	}
 
 }
