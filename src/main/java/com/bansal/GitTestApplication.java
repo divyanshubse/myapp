@@ -12,6 +12,7 @@ public class GitTestApplication {
 		String name="john";
 		int y=20;
 		String name1="chhotu";
+		String name3="honey";
 	}
 
 }
