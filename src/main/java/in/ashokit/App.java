@@ -12,6 +12,7 @@ public class App {
 //java 102
 public void m2(){
 System.out.println("story 102");
+}
 
 //java 101
 public void m1(){
