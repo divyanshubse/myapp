@@ -9,6 +9,7 @@ public class App {
        int i=10;
 String name="mohan";
 String name="yash";
+String name="yashu";
     }
 
 //java 102
