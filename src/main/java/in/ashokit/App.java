@@ -9,7 +9,7 @@ public class App {
        int i=10;
 String name="mohan";
 String name="yash";
-    }
+   }
 
 //java 102
 public void m2(){
