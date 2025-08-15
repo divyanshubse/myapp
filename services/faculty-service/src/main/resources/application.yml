@@ -1,0 +1,21 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: faculty-service
+  datasource:
+    url: jdbc:mysql://mysql:3306/erp_faculty?createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true&useSSL=false
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQL8Dialect
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
